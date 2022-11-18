@@ -5,6 +5,10 @@
     width: 40%;
     position: relative;
 }
+img {
+    position: absolute;
+    margin-top:260px
+}
 
 #flightStatus {
     color: green;
